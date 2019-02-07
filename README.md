@@ -1,2 +1,2 @@
 # DeCastro_STA_final
-final project for Spatio-Temporal Analysis
+Principal Component Analysis as an initial step to Mixture Modeling
